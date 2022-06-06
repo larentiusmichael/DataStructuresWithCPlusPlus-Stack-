@@ -1,5 +1,3 @@
-//Exercise 2: learn how to make an infix equation to postfix equation program using stack concept
-
 #include <iostream>
 using namespace std;
 
